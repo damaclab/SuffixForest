@@ -1,1 +1,1 @@
-# SuffixForest
+# Suffix Forest
